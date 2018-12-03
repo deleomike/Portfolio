@@ -1,0 +1,2 @@
+globals,data
+/Users/michaeldeleo/Projects/SeniorDesign/globals.txt,/Users/michaeldeleo/Projects/SeniorDesign/data.txt
