@@ -38,6 +38,4 @@ Table of Contents:
         and creates an object for each processor, which contains the list of commands. Then the simulation
         pits each command from every processor against each other to test if there is a conflict. If there is,
         then it adds a stall inbetween until no conflict exists
-
-    - NOTE: At the moment I would say this is the most impressive project I have because of the amount of planning and work that went into it. It is extensice.
     
