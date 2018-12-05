@@ -27,4 +27,17 @@ Table of Contents:
         - Then creates a visualization with a raspberry pi.
     - The design is intended to be under $100 and will be used to replace existing hardware, as the existing hardware is expensive and does not allow varied simulations
     - This design is the infrastructure to whatever lab Penn State will want to run. Technically it can do any simulation they want.
+    -
+5. Processor Simulation
+    - I developed a simulation of a superscalar processor in C++
+    - There are quite a few code files, but the one you should start at is main.cpp and follow the headers. That is the best way to understand it.
+    - Essentially, the program takes an input of the form 
+            .processor
+            command
+            command
+        and creates an object for each processor, which contains the list of commands. Then the simulation
+        pits each command from every processor against each other to test if there is a conflict. If there is,
+        then it adds a stall inbetween until no conflict exists
+
+    - NOTE: At the moment I would say this is the most impressive project I have because of the amount of planning and work that went into it. It is extensice.
     
