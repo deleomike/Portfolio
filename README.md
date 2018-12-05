@@ -45,7 +45,7 @@ Table of Contents:
         3. Flask
     - This won't run unless the dependencies and everything is properly installed
     - The project was made on the premise that technology is also useful for satisfying the human condition
-How it Works:
+    - How it Works:
         1. The user uploads a picture to the website, and it is stored on a server. 
         2. It is processed with Clarifai and Google GCP, and a list of relevant words is produced. 
         3. The the weather data for the location is accessed, and dictates the mood of the poem
