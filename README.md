@@ -2,6 +2,9 @@
 
 Welcome to my Portfolio!
 
+I have laid out a few of the reports here in the main of the repository, of these projects. 
+For a quick overview of what I did, refer to those.
+
 Table of Contents:
 1. Acoustic Signals Research
     - This is my research with the Pennsylvania State University
